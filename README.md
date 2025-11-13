@@ -53,4 +53,10 @@ Le projet suit rigoureusement la méthodologie CRISP-DM :
 - **Ratio initial** : 10:1 (non-diabétiques:diabétiques)
 - **Stratégie** : Rééchantillonnage pour équilibrer les classes
 
+## ⚙️ Installation
+```bash
+# Cloner le repository
+git clone https://github.com/yaelaya/diabetes-prediction-ml.git
+```
+
 
